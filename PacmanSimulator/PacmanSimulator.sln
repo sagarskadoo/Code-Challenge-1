@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacmanSimulator.iOS", "Pacm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacmanSimulator", "PacmanSimulator\PacmanSimulator.csproj", "{E4491204-35BF-4936-B8BF-CBF76567A41A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacmanSimulator.Tests", "PacmanSimulator.Tests\PacmanSimulator.Tests.csproj", "{BBDB1A66-97F0-4561-A980-07FE15ADF783}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,5 +55,17 @@ Global
 		{E4491204-35BF-4936-B8BF-CBF76567A41A}.Debug|iPhone.Build.0 = Debug|Any CPU
 		{E4491204-35BF-4936-B8BF-CBF76567A41A}.Release|iPhone.ActiveCfg = Release|Any CPU
 		{E4491204-35BF-4936-B8BF-CBF76567A41A}.Release|iPhone.Build.0 = Release|Any CPU
+		{BBDB1A66-97F0-4561-A980-07FE15ADF783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDB1A66-97F0-4561-A980-07FE15ADF783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDB1A66-97F0-4561-A980-07FE15ADF783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDB1A66-97F0-4561-A980-07FE15ADF783}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBDB1A66-97F0-4561-A980-07FE15ADF783}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{BBDB1A66-97F0-4561-A980-07FE15ADF783}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{BBDB1A66-97F0-4561-A980-07FE15ADF783}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{BBDB1A66-97F0-4561-A980-07FE15ADF783}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{BBDB1A66-97F0-4561-A980-07FE15ADF783}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{BBDB1A66-97F0-4561-A980-07FE15ADF783}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{BBDB1A66-97F0-4561-A980-07FE15ADF783}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{BBDB1A66-97F0-4561-A980-07FE15ADF783}.Release|iPhone.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

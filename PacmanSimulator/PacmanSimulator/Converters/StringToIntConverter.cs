@@ -4,6 +4,9 @@ using Xamarin.Forms;
 
 namespace PacmanSimulator.Converters
 {
+    /// <summary>
+    /// Converter for string to int conversion and vice-versa.
+    /// </summary>
     public class StringToIntConverter : IValueConverter
     {
         public object Convert(object value, Type targetType, object parameter, CultureInfo culture)

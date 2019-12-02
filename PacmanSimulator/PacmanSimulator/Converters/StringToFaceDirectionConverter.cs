@@ -5,6 +5,9 @@ using Xamarin.Forms;
 
 namespace PacmanSimulator.Converters
 {
+    /// <summary>
+    /// Converter to convert string value to a face direction enum value.
+    /// </summary>
     public class StringToFaceDirectionConverter : IValueConverter
     {
         public const string __EAST = "EAST";
